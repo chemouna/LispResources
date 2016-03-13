@@ -1,9 +1,10 @@
 
 ## LISP RESOURCES
 
-
 ### LISP
 * [Free and bound variables in Lisp](http://eli.thegreenplace.net/2007/09/23/free-and-bound-variables-in-lisp)
+* [It is not hard to read Lisp code](https://yoo2080.wordpress.com/2014/07/04/it-is-not-hard-to-read-lisp-code/)
+
 
 ## Lists
 * [They Called It LISP for a Reason: List Processing](http://www.gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html)
