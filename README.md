@@ -14,4 +14,11 @@
 ## Operators
 * [The Background for CAR and CDR](http://www.howardism.org/Technical/Clojure/origin-of-car-and-cdr.html)
 
+## Learning Lisp 
+* [Google's lisp koans](https://github.com/google/lisp-koans)
+
+## Projects 
+* [Common Lisp Libraries by Edi Weitz](Common Lisp Libraries by Edi Weitz)
+
+
 ## Books 
