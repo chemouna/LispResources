@@ -20,5 +20,7 @@
 ## Projects 
 * [Common Lisp Libraries by Edi Weitz](Common Lisp Libraries by Edi Weitz)
 
+## Blogs 
+* [the zero bit stream](http://blog.thezerobit.com/)
 
 ## Books 
