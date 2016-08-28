@@ -17,6 +17,9 @@
 ## Learning Lisp 
 * [Google's lisp koans](https://github.com/google/lisp-koans)
 
+## Functions 
+* [Parameter Lists in Common Lisp and Clojure](http://nullprogram.com/blog/2013/01/20/)
+
 ## Projects 
 * [Common Lisp Libraries by Edi Weitz](Common Lisp Libraries by Edi Weitz)
 
